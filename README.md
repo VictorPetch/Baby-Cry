@@ -1,3 +1,3 @@
 # Baby-Cry
-Digital processing of Baby's Cry Spectrum
+Digital processing of Baby's Cry Spectrum:
 https://github.com/gveres/donateacry-corpus
